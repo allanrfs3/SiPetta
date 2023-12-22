@@ -13,4 +13,4 @@ Hello, we are from CH2-PS399!
 |Adi Prakarsa Dwi Utama |M004BSY1587 |Machine Learning |
 |Alfikiyar Tirta Haidar |C123BSY4154 |Cloud Computing |
 |Mirza Hisyam Maulana |C296BSY3924 |Cloud Computing|
-|HAqyun Rista Maulidin |A123BSX2684 |Mobile Development |
+|Aqyun Rista Maulidin |A123BSX2684 |Mobile Development |
